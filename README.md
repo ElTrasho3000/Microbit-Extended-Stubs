@@ -1,6 +1,3 @@
-# Microbit-Extended-Stubs
- Microbit Stubs for additional Modules.
-
 # micro:bit V2 extended stubs for VS Code
 ![GitHub license](https://img.shields.io/badge/license-MIT-red.svg?style=flat-square)
 ![V1](https://img.shields.io/badge/micro:bit-V1-green)
